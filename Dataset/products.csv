@@ -1,0 +1,21 @@
+product_id,product_name,release_version
+1,CloudSync Pro,v1.2
+2,DataBridge,v1.3
+3,SecureVault,v3.5
+4,API Gateway,v4.9
+5,ReportEngine,v1.9
+6,AnalyticsDash,v2.7
+7,AutoDeploy,v3.5
+8,NetMonitor,v4.1
+9,QueryBuilder,v5.2
+10,LogTracer,v5.5
+11,WorkflowAI,v4.5
+12,ConnectHub,v3.3
+13,BackupSuite,v1.0
+14,AlertManager,v2.7
+15,UserPortal,v5.6
+16,PayEngine,v5.1
+17,CRMLink,v3.4
+18,MLPipeline,v4.3
+19,StorageGrid,v5.4
+20,AuthManager,v4.3
